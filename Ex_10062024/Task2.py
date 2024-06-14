@@ -14,3 +14,12 @@ num1 = int(num1)
 num2 = int(num2)
 print(f"{num1} is {'greater than' if num1 > num2 else 'less than' if num1 < num2 else 'equal to'} {num2}.")
 
+
+# mdn web docs
+
+# ++ & -- will not exiist in pthon
+
+# xzcxzc
+# xczxczxc
+# Range(start,stop,step)
+# https://github.com/PramodDutta/Py3xATBLearning/tree/main/ex01_June/ex_12062024
